@@ -1,4 +1,5 @@
 # aws-lambda-scalajs-facade
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/net.exoego/aws-lambda-scalajs-facade_sjs0.6_2.12:0.2.0/badge.svg)](https://github.com/exoego/aws-lambda-scalajs-facade)
 
 A set of type definition and utility to implement AWS Lambda functions.
 
